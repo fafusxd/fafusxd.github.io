@@ -5,9 +5,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-2">
 <title>Usain Bolt</title>
-<meta name="description" content="Bolt">
-<meta name="keywords" content="Bolt">
-<meta name="author" content="sportowiec Usain Bolt">
+<meta name="description" content="konsol">
+<meta name="keywords" content="konsol">
+<meta name="author" content="Wojna konsol">
 <style type="text/css">
 div#container
 {
@@ -138,7 +138,7 @@ text-align: justify;
 <div id="wb_Text5" style="position:absolute;left:48px;top:594px;width:359px;height:23px;z-index:6;">
 <span style="color:#303030;font-family:Verdana;font-size:19px;"><strong>Doceniony lekkoatleta</strong></span></div>
 <div id="wb_Text6" style="position:absolute;left:48px;top:621px;width:620px;height:119px;text-align:justify;z-index:7;">
-<span style="color:#000000;font-family:Arial;font-size:15px;">Usain Bolt, najlepszy lekkoatketa w 2012 roku został doceniony jeszcze bardziej. Został on bowiem wybrany w Rio De Janeiro najlepszym sportowcem świata! Najwspanialsze jest to, że ta sztuka udała mu się po raz trzeci. Jeśli uda mu się powtórzyć sukces w przyszłości, może on zostać jednym z najwybitniejszych sportowców w historii. Na drodze stoi mu Roger Federer, który triumfował dotychczas 4 razy w plebiscycie Laureus Awards. Bolt jest to mistrz olimpijski w biegu na 100 i 200 m, obecny rekordzista świata w biegu na 100 i 200 m. Mierzy aż 195 cm wzrostu i waży około 94 kg.</span></div>
+<span style="color:#000000;font-family:Arial;font-size:15px;">Wojna konsol rozpoczęła się już dawno temu. Pierwsza konsola Sony została wydana aż w 1994. Jednak wraz z tymi 27 latami do przodu oprócz wskazówek zegara poruszyła się także technologia. Dzisiaj stoimi przed obliczem aż piątej generacji konsol.</span></div>
 </div>
 </body>
 </html>
