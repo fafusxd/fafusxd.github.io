@@ -3,16 +3,13 @@
 
 <head>
 
-<metahttp-equiv="content-type"content="tekst/html;charset=windows-1250">
-
-<title>Eskrimador </title>
 
 </head>
 
 
 <body text="#ff0000" bgcolor="#000000">
 
-<p align="center"><font size="7" color="#ff0000 face="old english text mt"> Combat Kalaki "Eskrimador"</font></p>
+
 
 
 <body leftmargin="50">
@@ -61,13 +58,13 @@
 
 <br>
 
-<h2><p><i><b><front color="#ff0000"><P align=center><blink>Witamy na stronie naszego klubu !</blink></front></b></i></p></h2>
+<h2><p><i><b><front color="#ff0000"><P align=center><blink>Witamy na stronie o konsolach.</blink></front></b></i></p></h2>
 
 <br>
 
-<p align="center"><FONT color=#ffffff> Zapraszamy do zapoznania się z ofertą naszego klubu , jak i również naszymi osiągnięciami sportowymi. </FRONT></p>
+<p align="center"><FONT color=#ffffff> Wojna konsol trwa już 27 lat, a niedawno Sony i Microsoft wydali swoje dwa nowe dzieła. </FRONT></p>
 
-<P><FONT color=#ffff00> Klub sportowy " Eskrimador " propaguje wśród młodzieży naszej Gminy dalekowschodnie sztuki walki z naciskiem na samoobronę. Zajęcia prowadzone są przez instruktorów Combat Kalaki Jarosława P. II dan, oraz Jana N. VII dan. na sali sportowej w Szkole Podstawowej . Młodzież uczestnicząca w zajęciach oprócz bezpłatnych treningów ma możliwosć uczestnictwa w zawodach rangi ogólnopolskiej czy też międzynarodowej. </FRONT>
+<P><FONT color=#ffff00> Wszystko zaczęło się w 1994, kiedy to Sony wyprodukowało swoją pierwszą konsole. </FRONT>
 
 
 <P align=center><img src=http://foto.m.onet.pl/_m/06ad24d2fbc62e92314eba3f823e2919,5,19,0.jpg""alt="foto"/></p>
@@ -91,7 +88,7 @@
 
 <br>
 
-<p align="left"><font size="2" color="#ffffff"face="arial"> Strona klubu<br>
+<p align="left"><font size="2" color="#ffffff"face="arial"> Strona github/fafusxd<br>
 
 wszelkie prawa zastrzeżone</font></p>
 
