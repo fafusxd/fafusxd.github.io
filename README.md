@@ -4,7 +4,7 @@
 <head>
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-2">
-<title>Usain Bolt</title>
+<title>Wojna konsol</title>
 <meta name="description" content="konsol">
 <meta name="keywords" content="konsol">
 <meta name="author" content="Wojna konsol">
@@ -136,7 +136,7 @@ text-align: justify;
 <div id="wb_Text18" style="position:absolute;left:607px;top:224px;width:756px;height:2px;z-index:5;">
 &nbsp;</div>
 <div id="wb_Text5" style="position:absolute;left:48px;top:594px;width:359px;height:23px;z-index:6;">
-<span style="color:#303030;font-family:Verdana;font-size:19px;"><strong>Doceniony lekkoatleta</strong></span></div>
+<span style="color:#303030;font-family:Verdana;font-size:19px;"><strong>Początki</strong></span></div>
 <div id="wb_Text6" style="position:absolute;left:48px;top:621px;width:620px;height:119px;text-align:justify;z-index:7;">
 <span style="color:#000000;font-family:Arial;font-size:15px;">Wojna konsol rozpoczęła się już dawno temu. Pierwsza konsola Sony została wydana aż w 1994. Jednak wraz z tymi 27 latami do przodu oprócz wskazówek zegara poruszyła się także technologia. Dzisiaj stoimi przed obliczem aż piątej generacji konsol.</span></div>
 </div>
