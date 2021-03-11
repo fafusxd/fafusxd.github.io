@@ -126,11 +126,11 @@ text-align: justify;
 <div id="wb_Shape1" style="position:absolute;left:21px;top:114px;width:962px;height:707px;z-index:0;">
 <img src="images/img0002.png" id="Shape1" alt="" style="border-width:0;width:962px;height:707px;"></div>
 <div id="wb_Text1" style="position:absolute;left:24px;top:60px;width:962px;height:56px;z-index:1;">
-<span style="color:#E49938;font-family:Georgia;font-size:48px;"><strong>Usain Bolt</strong></span></div>
+<span style="color:#E49938;font-family:Georgia;font-size:48px;"><strong>Pierwsza konsola została wydana 3 grudnia 1994</strong></span></div>
 <div id="wb_Text3" style="position:absolute;left:48px;top:130px;width:914px;height:41px;z-index:2;">
-<span style="color:#467AA7;font-family:Georgia;font-size:35px;">Usain Bolt najszybszym człowiekiem świata</span></div>
+<span style="color:#467AA7;font-family:Georgia;font-size:35px;">Oto ona</span></div>
 <div id="wb_Image1" style="position:absolute;left:48px;top:172px;width:620px;height:410px;z-index:3;">
-<img src="http://bi.gazeta.pl/im/0/6939/z6939900Q,Usain-Bolt.jpg" id="Image1" alt="" border="0" style="width:620px;height:410px;"></div>
+<img src=konsola ps1" id="Image1" alt="" border="0" style="width:620px;height:410px;"></div>
 <div id="wb_Text9" style="position:absolute;left:34px;top:830px;width:962px;height:18px;text-align:center;z-index:4;">
 <span style="color:#707070;font-family:Georgia;font-size:15px;">Copyright © 2013 zadane</span></div>
 <div id="wb_Text18" style="position:absolute;left:607px;top:224px;width:756px;height:2px;z-index:5;">
