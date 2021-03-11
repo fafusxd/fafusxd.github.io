@@ -32,7 +32,7 @@
 
 <p align="center">
 
-<p><h1><font color="#000fff">Klub sportowy "Eskrimador" </front></h1><p/p
+<p><h1><font color="#000fff">Wielka wojna" </front></h1><p/p
 
 <p align="center">&nbsp;</td>
 
@@ -44,11 +44,11 @@
 
 <p><front face="arial">Strona główna</front></p>
 
-<p> <a href=http://www..pl> klub </a> </front></p>
+<p> <a href=https://www.playstation.com/pl-pl/?smcid=gwo> sony </a> </front></p>
 
-<p> <a href=mailto:rezerwa2@onet.pl> poczta</a> </fron></p>
+<p> <a href=https://www.xbox.com/pl-PL> microsoft</a> </fron></p>
 
-<p> <a href=http://www.combatkalaki.pl> federacja </a> </front></p>
+<p> <a href=https://www.nintendo.pl/switch> nintendo </a> </front></p>
 
 <br>
 
